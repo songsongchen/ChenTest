@@ -1,0 +1,6 @@
+framework module ChenTest {
+  umbrella header "ChenTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

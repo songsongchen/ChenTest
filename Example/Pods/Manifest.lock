@@ -1,0 +1,16 @@
+PODS:
+  - ChenTest (0.1.0)
+
+DEPENDENCIES:
+  - ChenTest (from `../`)
+
+EXTERNAL SOURCES:
+  ChenTest:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ChenTest: a100e17af05afc386a5355a5ac5fe6ecfae2ea19
+
+PODFILE CHECKSUM: f39343950bc270aed263ab3bf7130f6fcb418348
+
+COCOAPODS: 1.2.1
